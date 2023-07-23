@@ -21,7 +21,7 @@ const UserMenu = () => {
                     transition
                     cursor-pointer
                     ">
-                        Airbnb your home
+                        Airbnb your home?
                     </div>
                     <div
                         onClick={() => {}}
