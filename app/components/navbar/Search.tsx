@@ -32,7 +32,7 @@ const Search= () => {
                             "
                             >
 
-                                Anywhere?
+                                Anywhere
 
 
                             </div>
